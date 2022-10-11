@@ -1,3 +1,9 @@
+// Trevin Nguyen
+// October 10, 2022
+//n220 Fall 2022
+
+// Personal Composition
+
 x = 100 // variable one
 var blueL = "#ADD8E6"; // variable two
 // two variables = yes
